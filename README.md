@@ -11,7 +11,7 @@ My name is Vasiliy.
 
 ❤️ Rust, Haskell, PureScript, OCaml and Coq
 
-🔥 A big Nix and NixOS fan.
+🔥 A big Nix and NixOS fan
 
 ### Contacts :mailbox:
 
