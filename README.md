@@ -6,7 +6,7 @@ My name is Vasiliy.
 
 :nerd_face: Also interested in statically typed functional programming, compilers, type theory and formal verification.
 
-❤️ Haskell, PureScript, OCaml and Coq
+❤️ Rust, Haskell, PureScript, OCaml and Coq
 
 🔥 A big Nix and NixOS fan.
 
