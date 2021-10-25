@@ -1,3 +1,6 @@
+[![telegram badge](https://img.shields.io/badge/%40vyorkin-telegram-%23fff)](https://t.me/vyorkin)
+![Twitter URL](https://img.shields.io/twitter/url?label=%40yorkin&url=https%3A%2F%2Ftwitter.com%2Fyorkin)
+
 ### What’s up?
 
 My name is Vasiliy.
@@ -12,8 +15,6 @@ My name is Vasiliy.
 
 ### Contacts :mailbox:
 
-* [My Twitter](https://twitter.com/yorkin)
-* Chat with me [in Telegram](https://t.me/vyorkin)
 * Drop a mail at <vasiliy.yorkin@gmail.com>
 * The [public key](https://keybase.io/vyorkin) on Keybase can be used to send encrypted email
 * I am **vyorkin** on reddit, SO, freenode, FP-slack, discord and a few other places
