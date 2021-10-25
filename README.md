@@ -7,11 +7,11 @@ My name is Vasiliy.
 
 🏢 Currenlty I'm doing a blockchain development with the Substrate framework
 
-:nerd_face: Also interested in statically typed functional programming, compilers, type theory and formal verification
-
 ❤️ Rust, Haskell, PureScript, OCaml and Coq
 
 🔥 A big Nix and NixOS fan
+
+:nerd_face: Also interested in statically typed functional programming, compilers, type theory and formal verification
 
 ### Contacts :mailbox:
 
