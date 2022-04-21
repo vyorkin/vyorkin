@@ -5,7 +5,7 @@
 
 My name is Vasiliy.
 
-🏢 Currenlty I'm doing a blockchain development with the Substrate framework
+🏢 Currenlty I'm doing a blockchain development
 
 ❤️ Rust, Haskell, PureScript, OCaml and Coq
 
