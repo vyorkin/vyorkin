@@ -5,13 +5,13 @@
 
 My name is Vasiliy.
 
-🏢 Currenlty I'm doing a blockchain development
+I’m interested in blockchain security, DeFi, statically typed functional programming, compilers, type theory and formal verification.
+
+🏢 Currently I’m doing blockchain R&D with the Substrate framework and EVM/Solidity
 
 ❤️ Rust, Haskell, PureScript, OCaml and Coq
 
 🔥 A big Nix and NixOS fan
-
-:nerd_face: Also interested in statically typed functional programming, compilers, type theory and formal verification
 
 ### Contacts :mailbox:
 
@@ -19,4 +19,4 @@ My name is Vasiliy.
 * The [public key](https://keybase.io/vyorkin) on Keybase can be used to send encrypted email
 * I am **vyorkin** on reddit, SO, freenode, FP-slack, discord and a few other places
 
-🌍 Moscow, Russia
+🌍 Planet Earth
