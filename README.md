@@ -7,9 +7,7 @@ My name is Vasiliy.
 
 I’m interested in blockchain security, DeFi, statically typed functional programming, compilers, type theory and formal verification.
 
-🏢 Currently I’m doing blockchain R&D with the Substrate framework and EVM/Solidity
-
-👀 I audit smart contracts on Immunify and
+🔍 I audit smart contracts on Immunify and
 Code4Arena and participate in blockchain hackatons
 
 ❤️ Rust, Haskell, PureScript, OCaml and Coq
