@@ -5,9 +5,9 @@
 
 My name is Vasiliy.
 
-I’m interested in blockchain security, DeFi, statically typed functional programming, compilers, type theory and formal verification.
+I’m interested in blockchain security, DeFi, MEV, statically typed functional programming, compilers, type theory and formal verification.
 
-🔍 I audit smart contracts on Code4Arena & love to play CTF's
+🔍 I love to play CTF's
 
 ❤️ Rust, Haskell, PureScript, OCaml and Coq
 
