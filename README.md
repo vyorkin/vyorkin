@@ -17,6 +17,6 @@ I’m interested in blockchain security, DeFi, MEV, statically typed functional 
 
 * Drop a mail at <vasiliy.yorkin@gmail.com>
 * The [public key](https://keybase.io/vyorkin) on Keybase can be used to send encrypted email
-* I am **vyorkin** on reddit, SO, freenode, FP-slack, discord and a few other places
+* I am **vyorkin** on reddit, SO, freenode, discord and a few other places
 
 🌍 Planet Earth
