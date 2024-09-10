@@ -6,13 +6,4 @@ No artificial transcendence, only cosmogonic construction and pantocreatics.
 
 ---
 
-My configs:
-
-* [zshrc](https://github.com/vyorkin/zshrc)
-* [kitty](https://github.com/vyorkin/kitty)
-* [ranger](https://github.com/vyorkin/ranger)
-* [gitconfig](https://github.com/vyorkin/gitconfig)
-* [nvim](https://github.com/vyorkin/nvim)
-* [tmux](https://github.com/vyorkin/tmux.conf)
-* [emacs](https://github.com/vyorkin/emacs.d)
-* [nixos-config](https://github.com/vyorkin/nixos-config)
+My configs: [zshrc](https://github.com/vyorkin/zshrc), [kitty](https://github.com/vyorkin/kitty), [ranger](https://github.com/vyorkin/ranger), [gitconfig](https://github.com/vyorkin/gitconfig), [nvim](https://github.com/vyorkin/nvim), [tmux](https://github.com/vyorkin/tmux.conf),  [emacs](https://github.com/vyorkin/emacs.d), [nixos-config](https://github.com/vyorkin/nixos-config)
