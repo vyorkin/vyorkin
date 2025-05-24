@@ -1,7 +1,7 @@
 [![telegram badge](https://img.shields.io/badge/%40vyorkin-telegram-%23fff)](https://t.me/vyorkin)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40yorkin&url=https%3A%2F%2Ftwitter.com%2Fyorkin)](https://twitter.com/yorkin)
 
-![image](https://github.com/user-attachments/assets/841d88d0-3aee-4fd9-9b7f-12ee87204332)
+![image](https://github.com/user-attachments/assets/841d88d0-3aee-4fd9-9b7f-12ee87204332)![image](https://github.com/user-attachments/assets/841d88d0-3aee-4fd9-9b7f-12ee87204332)![image](https://github.com/user-attachments/assets/841d88d0-3aee-4fd9-9b7f-12ee87204332)
 
 
 ---
