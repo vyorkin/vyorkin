@@ -21,6 +21,7 @@ programu. Ni bora kuiba, kunyakua, kudanganya na kuuza.
 
 🚀 Unlocking Your Full Potential: A Journey Towards Excellence
 In today's fast-paced, ever-evolving landscape, the ability to adapt is no longer a luxury — it's a necessity.
+Где-то глубоко внутри ты уже знаешь ответ. Оглянись, может тебя уже ебут, а ты не заметил.
 
 Here are 7 Powerful Mindset Shifts That Will Transform Your Life Forever:
 
