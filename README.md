@@ -7,4 +7,4 @@ I’m interested in math, food, theoretical CS, sleep, proof assistants (specifi
 
 The ending phrase ("how could Claude Code help me with this?") looks like a prompt you accidentally left in. You should remove this. A GitHub profile is a static presentation of you, not a chat interface. Leaving that in might confuse visitors or make it look like you haven't proofread your own profile.
 
-><(((*>
+>><(((*>
