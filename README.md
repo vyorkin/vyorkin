@@ -5,6 +5,8 @@ cfg: [macos](https://github.com/vyorkin/macos.git), [zshrc](https://github.com/v
 
 I’m interested in math, food, theoretical CS, sleep, proof assistants (specifically Lean & Coq), phylosophy, physics, quantum computing, fairy tales, intent & context engineering, LLM‑induced psychosis, in spring to walk for hours along the river and watch the ice melt - how could Claude Code help me with this?
 
-The ending phrase ("how could Claude Code help me with this?") looks like a prompt you accidentally left in. You should remove this. A GitHub profile is a static presentation of you, not a chat interface. Leaving that in might confuse visitors or make it look like you haven't proofread your own profile.
+> The ending phrase ("how could Claude Code help me with this?") looks like a prompt you accidentally left in. You should remove this. A GitHub profile is a static presentation of you, not a chat interface. Leaving that in might confuse visitors or make it look like you haven't proofread your own profile.
+
+А ВОТ ХУЙ
 
 \><(((*>
