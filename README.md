@@ -4,3 +4,7 @@
 cfg: [macos](https://github.com/vyorkin/macos.git), [zshrc](https://github.com/vyorkin/zshrc), [kitty](https://github.com/vyorkin/kitty), [ranger](https://github.com/vyorkin/ranger), [gitconfig](https://github.com/vyorkin/gitconfig), [nvim](https://github.com/vyorkin/nvim), [tmux](https://github.com/vyorkin/tmux.conf), [zellij](https://github.com/vyorkin/zellij), [emacs](https://github.com/vyorkin/emacs.d)/[doom emacs](https://github.com/vyorkin/doom), [nixos-config](https://github.com/vyorkin/nixos-config), [hammerspoon](https://gist.github.com/vyorkin/aaeffac936e374052e7a19d0805ad8a9), [zathurarc](https://gist.github.com/vyorkin/4b9c23bfd6310e5721ad3999b4fe2dbb)
 
 I’m interested in math, food, theoretical CS, sleep, proof assistants (specifically Lean & Coq), phylosophy, physics, quantum computing, fairy tales, intent & context engineering, LLM‑induced psychosis, in spring to walk for hours along the river and watch the ice melt - how could Claude Code help me with this?
+
+The ending phrase ("how could Claude Code help me with this?") looks like a prompt you accidentally left in. You should remove this. A GitHub profile is a static presentation of you, not a chat interface. Leaving that in might confuse visitors or make it look like you haven't proofread your own profile.
+
+><(((*>
