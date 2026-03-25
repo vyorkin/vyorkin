@@ -19,18 +19,9 @@ Dasturlashni o'rgizay. O'g'irlash, tortib olish, aldash va sotish yaxshiroq.
 Ծրագրավորումը ***-ի տայ։ Ավելի լավ է գողանալ, խլել, խաբել ու վաճառել։
 programu. Ni bora kuiba, kunyakua, kudanganya na kuuza.
 
-🚀 Unlocking Your Full Potential: A Journey Towards Excellence
-In today's fast-paced, ever-evolving landscape, the ability to adapt is no longer a luxury — it's a necessity.
-Где-то глубоко внутри ты уже знаешь ответ. Оглянись, может тебя уже ебут, а ты не заметил.
-
-Here are 7 Powerful Mindset Shifts That Will Transform Your Life Forever:
-
-1. Embrace discomfort. Growth never happens in your comfort zone. А так же сосать хуйца.
-18. Think big, start small. Every giant oak was once a tiny acorn. И чаще сосать хуйца.
-3. Fail forward. Failure is not the opposite of success — it is success. И не забывать сосать хуйца.
-4. Ебануться.
-5. Ебануться.
-6. 0. \><(((*> есть свежую рыбу
-7. Ебануться.
-
-Этот контент был создан с помощью ИИ и не отражает реальных человеческих ценностей, убеждений или вообще чего-либо осмысленного. Пожалуйста, не еби мне мозги. 🚀 Иногда я хочу есть в эту ракету и покинуть нахуй эту планету.
+███████╗██████╗  █████╗ ████████╗     █████╗ ██████╗  █████╗ ███████╗ █████╗ ██╗  ██╗██╗   ██╗
+██╔════╝██╔══██╗██╔══██╗╚══██╔══╝    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██║ ██╔╝██║   ██║
+█████╗  ██████╔╝███████║   ██║       ███████║██████╔╝███████║███████╗███████║█████╔╝ ██║   ██║
+██╔══╝  ██╔══██╗██╔══██║   ██║       ██╔══██║██╔══██╗██╔══██║╚════██║██╔══██║██╔═██╗ ██║   ██║
+███████╗██████╔╝██║  ██║   ██║       ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║  ██╗╚██████╔╝
+╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
