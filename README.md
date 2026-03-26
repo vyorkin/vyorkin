@@ -7,15 +7,4 @@ I’m interested in math, food, theoretical CS, sleep, proof assistants (specifi
 
 > The ending phrase ("how could Claude Code help me with this?") looks like a prompt you accidentally left in. You should remove this. A GitHub profile is a static presentation of you, not a chat interface. Leaving that in might confuse visitors or make it look like you haven't proofread your own profile.
 
-Праграмаваць х**у хачу. Лепш украсці, адабраць, падмануць і прадаць.
-去他妈的编程。偷、抢、骗、卖才是正道。
-Программалоону х*й кет. Уурдоо, тартып алуу, алдоо жана сатуу жакшыраак.
-「プログラミングなんてくたばれ。盗んで、奪って、騙して、売る方がよっぽどましだ。」
-პროგრამირება მო***. უმჯობესია მოიპაროს, წაართვა, მოატყუოს და გაყიდოს.
-Programimin *** atë. Është më mirë të vjedhësh, grabitësh, mashtrosh dhe shesësh.
-Dasturlashni o'rgizay. O'g'irlash, tortib olish, aldash va sotish yaxshiroq.
-Барнома навиштанро х*й кун. Дуздидан, гирифтан, фиреб додан ва фурӯхтан беҳтар аст.
-Ծրագրավորումը ***-ի տայ։ Ավելի լավ է գողանալ, խլել, խաբել ու վաճառել։
-programu. Ni bora kuiba, kunyakua, kudanganya na kuuza.
-
 ![](./banner2.svg)
