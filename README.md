@@ -3,4 +3,4 @@
 
 cfg: [macos](https://github.com/vyorkin/macos.git), [zshrc](https://github.com/vyorkin/zshrc), [kitty](https://github.com/vyorkin/kitty), [herdr](https://github.com/vyorkin/herdr), [gitconfig](https://github.com/vyorkin/gitconfig), [nvim](https://github.com/vyorkin/nvim), [tmux](https://github.com/vyorkin/tmux.conf), [zellij](https://github.com/vyorkin/zellij), [emacs](https://github.com/vyorkin/emacs.d)/[doom emacs](https://github.com/vyorkin/doom), [nixos-config](https://github.com/vyorkin/nixos-config), [hammerspoon](https://gist.github.com/vyorkin/aaeffac936e374052e7a19d0805ad8a9), [zathurarc](https://gist.github.com/vyorkin/4b9c23bfd6310e5721ad3999b4fe2dbb)
 
-My favorite game is Lean 4 (and OMARCHY). The fucking revolution has begun!
+My favorite game is Lean 4 (and OMARCHY). The fucking revolution has begun! I got bitten by DHH.
